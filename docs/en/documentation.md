@@ -1,0 +1,6 @@
+- ## WebRadio Troubleshooting
+    - [Registration](/docs/registration)
+    - [Icecast 2](/docs/icecast2-configuration)
+- ## Current Song Systems
+    - [Radionomy](/docs/radionomy)
+    - [API Fetcher](/docs/api-fetcher)
