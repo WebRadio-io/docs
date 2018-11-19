@@ -1,13 +1,13 @@
-# Getting the Current Song from your Radionomy Webradio
+# Afficher la musique en cours depuis votre WebRadio Radionomy
 
-WebRadio.io can work with Radionomy in order to retrieve the current song being played by Radionomy, and display it on your webradio.io page.
+WebRadio.io peut travailler avec Radionomy afin d'afficher la musique en train d'être jouée par Radionomy sur votre page WebRadio, dans votre thème.
 
-You will need two data in order to activate this feature: your **Radio ID** and your **API KEY**.
+Vous aurez besoin de deux données afin d'activer cette fonctionnalité: votre **Radio ID** et votre **API KEY**.
 
-Once you have those informations, you can enable the Radionomy Current Song System by going to your Webradio Settings Section and then go to "Update Current Song System".
+Quand vous aurez ces informations, vous pourrez activer le système Radionomy en vous rendant dans les Options de votre Webradio et ensuite dans "Modifier le système de musique en cours".
 
-A new menu will appear and you can choose "Radionomy API" in the list.
+Un menu apparaît et vous pouvez choisir "Radionomy API" dans la liste.
 
-In the 2 input that appeared on the right, enter your Radio ID and your API KEY. Click on the "Try" button and see the magic happening!
+Dans les deux champs qui apparaissent, entrez votre Radio ID et votre API KEY. Cliquez sur le bouton Try et tout devrait fonctionner !
 
-Finally, save your modification.
+Maintenant, sauvegardez vos modifications.
