@@ -4,3 +4,6 @@
 - ## Current Song Systems
     - [Radionomy](/docs/radionomy)
     - [API Fetcher](/docs/api-fetcher)
+- ## WebRadio API
+    - [Musique En Cours](/docs/radio-current-song)
+    - [Image de l'artiste](/docs/radio-current-song-image)
