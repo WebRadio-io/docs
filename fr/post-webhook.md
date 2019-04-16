@@ -1,26 +1,28 @@
-# Add the Current Song on your WebRadio Page with the POST Webhook method
+# Ajouter la musique en cours sur votre Page WebRadio Page grâce à la méthode POST Webhook
 
-## Enable the POST Webhook method
+## Activer la méthode POST Webhook
 
-### Start Configuration
-On your [WebRadios listing page](/my/radio), click on the arrow at on the top right of your WebRadio panel and click on "Edit Current Song System"
+### Démarrer la Configuration
+Sur votre [liste de vos WebRadios](/my/radio), cliquez sur la petite flêche à droite de votre panneau WebRadio et cliquez sur "Modifier le système de musique en cours"
 
 ![WebRadio Panel Settings](/guides/api-fetcher-001.png "WebRadio Panel Settings")
 
-You'll see we provide a certain number of mechanisms to get the current song from your WebRadio. Let's see the POST Webhook method.
+Vous verrez que nous fournissons un certain nombre de mécanismes permettant d'afficher la musique en cours sur votre WebRadio. Nous allons passer en revue la méthode *POST Webhook*.
 
 ![Api fetcher method](/guides/api-fetcher-002.png "POST Webhook method")
 
-This system is made for the webradio owners that use very specific softwares for streaming their audio stream. Some of those softwares allow to execute a specific script each time a new song is played.
+Cette méthode a été créée pour les managers de webradio qui utilisent un logiciel spécifique pour streamer le flux audio de leur radio. Certains de ces logiciels permettent d'exécuter certains scripts lors d'événement particulier.
 
-You can configure your software to talk to webradio.io and tell us you're playing a new song.
+Dans notre cas, nous voulons que le logiciel exécute une requête HTTP lorsqu'une nouvelle musique est jouée.
 
-### Configure Your Software
-You will have to refer to the documentation of your software to check how to perform HTTP POST Requests.
+Vous pouvez configurer votre logiciel pour communiquer avec notre plateforme et nous informer qu'une nouvelle musique doit être affichée.
 
-Once you're ready to test your POST Request, click the "Try" button.
+### Configurer votre logiciel
+Premièrement il vous faudra vous fier à la documentation de votre logiciel afin de créer un script pour exécuter une requête HTTP de type POST.
 
-### Try... we're listening...
+Lorsque votre script est prêt, vous pouvez cliquer le bouton "Essayer".
+
+### Testez votre script... nous écoutons...
 
 We are now listening for your requests. Leave the tab / window open and go to your software to execute the request.
 
