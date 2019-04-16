@@ -18,26 +18,19 @@ You can configure your software to talk to webradio.io and tell us you're playin
 ### Configure Your Software
 You will have to refer to the documentation of your software to check how to perform HTTP POST Requests.
 
-..
+Once you're ready to test your POST Request, click the "Try" button.
 
 ### Try... we're listening...
-Now, you need to select the emplacement where the Artist name is displayed. You simply need to click once on the artist name.
 
-![Json Artist Path](/guides/api-fetcher-004.png "Json Artist Path")
+We are now listening for your requests. Leave the tab / window open and go to your software to execute the request.
 
-Next to the "Validate" Button you can see that we display the "JSON Path" to where the data is stored inside the data tree.
-You can then click on Validate and do the exact same thing for the Title
-
-Click a final time on "Validate"
+If everything is correctly configured, you should see the song data (artist and title) appearing on the white box.
 
 ### Validate the result
-You finally see an example of the result. If something is incorrect, you can re-click on the "Try" button and start over.
+You finally see an example of the result. If something is incorrect, you can change your software settings until the result works as expected.
 
-![Confirmation Step](/guides/api-fetcher-005.png "Confirmation Step")
-
-But if what you see is correct, click on the big "Confirm" button and you're good to go !
+If what you see is correct, click on the big "Confirm" button and you're good to go !
 
 ### You're done !
-![Done !](/guides/api-fetcher-006.png "Done !")
 
 Congratulations !
