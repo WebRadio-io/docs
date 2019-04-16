@@ -24,15 +24,17 @@ Lorsque votre script est prêt, vous pouvez cliquer le bouton "Essayer".
 
 ### Testez votre script... nous écoutons...
 
-We are now listening for your requests. Leave the tab / window open and go to your software to execute the request.
+Une que vous avez cliqué sur le bouton "Essayer", nous commencerons à écouter les requêtes que vous aller nous envoyer.
 
-If everything is correctly configured, you should see the song data (artist and title) appearing on the white box.
+Laissez cette fenêtre ouverte afin que notre script d'écoute continue à faire son travail. Allez sur votre logiciel de streaming et exécutez votre script (ou attendez qu'une nouvelle musique soit jouée).
 
-### Validate the result
-You finally see an example of the result. If something is incorrect, you can change your software settings until the result works as expected.
+Si tout est correctement configuré sur votre logiciel, vous devriez voir appraître les données (artiste et titre de la chanson) dans la petite case blanche.
 
-If what you see is correct, click on the big "Confirm" button and you're good to go !
+### Valider le résultat
+Une fois que le résultat correspond bien aux données de votre logiciel de streaming, vous pouvez sauvegarder la méthode POST Webhook.
 
-### You're done !
+Si tout est correct, cliquez sur le gros bouton "Confirmer" et tout est terminé!
 
-Congratulations !
+### C'est bon !
+
+Félicitations !
